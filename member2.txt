@@ -1,2 +1,1 @@
-commit by member2 zjhbuaa
-commit again by member2 zjhbuaa
+member2 has done sth here.
