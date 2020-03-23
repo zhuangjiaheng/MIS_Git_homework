@@ -415,3 +415,10 @@ menubar.add_cascade(label = '时间管理',menu = filemenu5)
 top['menu'] = menubar
 tk.mainloop()
 #Finish
+
+'''
+What wonderful code!
+Comments by Hobee
+Come on! Never Settle!
+'''
+
